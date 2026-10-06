@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include "shiftRegister.hpp"
+#include <iostream>
+#include "shift_register.hpp"
 
 void func(void)
 {

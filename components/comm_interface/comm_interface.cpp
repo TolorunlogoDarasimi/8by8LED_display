@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include "comm_interface.h"
+#include <iostream>
+#include "comm_interface.hpp"
 
 void func(void)
 {

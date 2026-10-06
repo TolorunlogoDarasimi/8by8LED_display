@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include "ntp.h"
+#include <iostream>
+#include "ntp.hpp"
 
 void func(void)
 {

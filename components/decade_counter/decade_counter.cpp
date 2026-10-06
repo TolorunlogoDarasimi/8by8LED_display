@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include "decade_counter.h"
+#include <iostream>
+#include "decade_counter.hpp"
 
 void func(void)
 {

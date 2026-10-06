@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "message.h"
+#include "message.hpp"
 
 void func(void)
 {
